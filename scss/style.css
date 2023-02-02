@@ -1,4 +1,6 @@
-a {
-  padding: 1em;
-  margin: 2em;
+/*Variabler*/
+/*Mixins*/
+body {
+  margin: 0;
+  box-sizing: border-box;
 }/*# sourceMappingURL=style.css.map */
